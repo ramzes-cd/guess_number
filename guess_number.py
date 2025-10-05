@@ -13,9 +13,9 @@ while True:
     if guess > number:
         print('You number is too big')
     elif guess < number:
-        print('You number is too small')
+        print('You number is too small') 
     elif guess == number:
-        print("You win!!!")
+        print("You win!!!") 
         break
     else:
         print("Uncorrection enter")
